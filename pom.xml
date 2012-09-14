@@ -12,18 +12,19 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <dropwizardVersion>0.5.1</dropwizardVersion>
     </properties>
 
     <dependencies>
         <dependency>
             <groupId>com.yammer.dropwizard</groupId>
             <artifactId>dropwizard-core</artifactId>
-            <version>0.3.0</version>
+            <version>${dropwizardVersion}</version>
         </dependency>
         <dependency>
             <groupId>com.yammer.dropwizard</groupId>
             <artifactId>dropwizard-views</artifactId>
-            <version>0.3.0</version>
+            <version>${dropwizardVersion}</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
