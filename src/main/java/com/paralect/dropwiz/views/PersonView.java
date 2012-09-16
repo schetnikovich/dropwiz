@@ -1,4 +1,4 @@
-package com.paralect.dropwiz;
+package com.paralect.dropwiz.views;
 
 import com.yammer.dropwizard.views.View;
 

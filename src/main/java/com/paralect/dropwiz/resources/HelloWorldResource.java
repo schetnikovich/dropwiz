@@ -1,7 +1,7 @@
 package com.paralect.dropwiz.resources;
 
 import com.google.common.base.Optional;
-import com.paralect.dropwiz.PersonView;
+import com.paralect.dropwiz.views.PersonView;
 import com.paralect.dropwiz.core.Saying;
 import com.yammer.metrics.annotation.Timed;
 
